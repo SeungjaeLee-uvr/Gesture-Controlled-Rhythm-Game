@@ -13,14 +13,15 @@ Repository를 저장할 폴더에서 Git Bash 혹은 다른 shell을 열고 Pyth
 python -m venv venv
 ```
 
-> 가상환경 이름(`venv`)은 원하는 이름으로 변경해도 됩니다.
+> 가상환경 이름(`venv`, 가장 뒤 venv만)은 원하는 이름으로 변경해도 됩니다.
 
 ---
 
 ### 2️⃣ Repository 클론
+본인 계정으로 fork하고 하셔야 충돌 안 납니다.
 
 ```bash
-git clone https://github.com/TaejunSon/Gesture-Controlled-Rhythm-Game.git
+git clone '  '
 ```
 
 ---
